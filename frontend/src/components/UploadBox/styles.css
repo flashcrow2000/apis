@@ -1,0 +1,18 @@
+.paper {
+  width: 45%;
+  margin: 8px 16px;
+  padding: 8px;
+}
+
+.dropTarget {
+  color: lightsteelblue;
+  opacity: 0.3;
+  width: 150px;
+}
+
+.dropTargetContainer {
+  border: 1px dashed lightblue;
+  margin: 24px 16px;
+  display: flex;
+  justify-content: center;
+}

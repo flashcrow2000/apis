@@ -1,7 +1,10 @@
 import React from 'react';
+import FileUpload from './components/FileUpload';
 
 function App() {
-  return <div>Implement me!</div>;
+  
+
+  return <FileUpload />;
 }
 
 export default App;
